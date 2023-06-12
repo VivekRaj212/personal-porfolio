@@ -80,7 +80,7 @@ body {
   .details {
 
     background-color: rgb(255, 255, 255);
-    height: 40vh;
+    height: 45vh;
     width: 850px;
     padding: 10px;
     box-shadow: 5px 5px 10px rgb(39, 33, 33);
@@ -423,9 +423,6 @@ body {
 }
 
 }
-
-
-
 
 
 
