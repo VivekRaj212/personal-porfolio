@@ -302,6 +302,128 @@ body {
      filter: brightness(140%);
 }
 
+@media screen and (max-width: 860px)
+{
+
+  .details {
+
+    background-color: rgb(255, 255, 255);
+    height: 50vh;
+    width: 750px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgb(39, 33, 33);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  #my_intro {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+
+  #experience {
+
+    height: max-content;
+  }
+
+  .backtop > a img {
+
+
+    filter: brightness(140%);
+    height: 45px;
+    position: absolute;
+    bottom: -54px;
+   
+}
+
+
+}
+
+
+
+@media screen and (max-width: 600px)
+{
+
+  .details {
+
+    background-color: rgb(255, 255, 255);
+    height: 50vh;
+    width: 400px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgb(39, 33, 33);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  #my_intro {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+
+  #experience {
+
+    height: max-content;
+  }
+
+  .backtop > a img {
+
+
+    filter: brightness(140%);
+    height: 45px;
+    position: absolute;
+    bottom: -54px;
+   
+}
+
+
+}
+
+
+@media screen and (max-width: 420px) {
+
+
+  .details {
+
+    background-color: rgb(255, 255, 255);
+    height: 55vh;
+    width: 330px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgb(39, 33, 33);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  #my_intro {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+
+  #experience {
+
+    height: max-content;
+  }
+
+  .backtop > a img {
+
+
+    filter: brightness(140%);
+    height: 45px;
+    position: absolute;
+    bottom: -54px;
+   
+}
+
+}
+
 
 
 
